@@ -10,11 +10,11 @@ let currentDetailPage = {
 const translations = {
   en: {
     // Page meta
-    pageTitle: 'Ali Zahedi',
+    pageTitle: 'HADI Feizullahzadeh',
     pageDescription: 'Electronics & Embedded Systems Engineer.',
     
     // Brand name
-    brandName: 'Ali Zahedi',
+    brandName: 'HADI Feizullahzadeh',
     
     // Navigation
     navHome: 'Home',
@@ -281,11 +281,11 @@ const translations = {
   
   fa: {
     // Page meta
-    pageTitle: 'علی زاهدی',
+    pageTitle: 'هادی فیض اله زاده',
     pageDescription: 'مهندس الکترونیک و سیستم‌های تعبیه‌شده با تخصص در اینترنت اشیا، تجهیزات پزشکی و بینایی کامپیوتر',
     
     // Brand name
-    brandName: 'علی زاهدی',
+    brandName: 'هادی فیض اله زاده',
     
     // Navigation
     navHome: 'خانه',
