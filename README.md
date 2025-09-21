@@ -112,12 +112,12 @@ I am an experienced Electronics and Embedded Systems Engineer with a strong back
 I'm always interested in discussing new opportunities, collaborations, and challenging projects in embedded systems and IoT development.
 
 ### Get in Touch
-- **Email**: [Alixahedi@gmail.com](mailto:Alixahedi@gmail.com)
-- **GitHub**: [github.com/alixahedi](https://github.com/alixahedi)
-- **LinkedIn**: [linkedin.com/in/alixahedi](https://www.linkedin.com/in/alixahedi/)
-- **Telegram**: [t.me/talixahedi](https://t.me/talixahedi)
-- **YouTube**: [youtube.com/@alizahedi](https://youtube.com/@alizahedi)
-- **Instagram**: [instagram.com/alizahedi](https://instagram.com/alixahedi)
+- **Email**: [mr.ihadios@gmail.com](mailto:mr.ihadios@gmail.com
+- **GitHub**: [github.com/thehadi](https://github.com/thehadi)
+- **LinkedIn**: [linkedin.com/in/hadi-feizullahzadeh](https://www.linkedin.com/in/hadi-feizullahzadeh/)
+- **Telegram**: [t.me/hadikhan](https://t.me/hadikhan)
+- **YouTube**: [youtube.com/...](https://youtube.com/...)
+- **Instagram**: [instagram.com/thehadi.fz](https://instagram.com/thehadi.fz)
 
 ### Areas of Interest
 - **Embedded Systems Consulting** - Technical expertise for complex projects
