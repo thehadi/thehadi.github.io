@@ -112,7 +112,7 @@ I am an experienced Electronics and Embedded Systems Engineer with a strong back
 I'm always interested in discussing new opportunities, collaborations, and challenging projects in embedded systems and IoT development.
 
 ### Get in Touch
-- **Email**: [mr.ihadios@gmail.com](mailto:mr.ihadios@gmail.com
+- **Email**: [mr.ihadios@gmail.com](mailto:mr.ihadios@gmail.com)
 - **GitHub**: [github.com/thehadi](https://github.com/thehadi)
 - **LinkedIn**: [linkedin.com/in/hadi-feizullahzadeh](https://www.linkedin.com/in/hadi-feizullahzadeh/)
 - **Telegram**: [t.me/hadikhan](https://t.me/hadikhan)
